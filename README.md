@@ -15,7 +15,7 @@ More detail please visit [Arduino-cli](https://arduino.github.io/arduino-cli/0.3
 ## 3. Library
   I prepared the C++ version of the commonly used PLC software elements for the PLC software of the C++ / Arduino-based microcontroller.
   
-  #### I. Timer TONE
+  #### I. Timer TON
   
   #### II. Timer TOF
   
