@@ -10,11 +10,18 @@ Make your own PLC by using arduino code and Kicad.
    
 ##3. Library
   I prepared the C++ version of the commonly used PLC software elements for the PLC software of the C++ / Arduino-based microcontroller.
+  
   ####I. Timer TONE
+  
   ####II. Timer TOF
+  
   ####III. Timer TP
+  
   ####IV. Toogle
+  
   ####V. R_trig
+  
   ####VI. F_trig
+  
   ####VII. Flashor
    
