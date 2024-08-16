@@ -6,7 +6,7 @@ Make your own PLC by using arduino code and Kicad.
    Since I developed PCB drawings for my company, it would not be right for me to share the entire schematic. However, I will upload details on how to do it or a sample project drawing. For now, I use chips such as Atmega64 and Atmega128 in my PLCs, but I continue to work on STM32. I look forward to those who will support me in this regard.
 
    
-## 2. C# Cutoms IDE / Based on Arduino CLI
+## 2. C# Cutoms IDE / Based on Arduino-CLI
    You can find the codes of the PLC editor I developed for my company at this link. The PLC editor program, which I developed with C# visual studio 2022 IDE, supports C++ code. It performs its operations by calling the arduino-cli program in the background.
 [PLC Editor page](https://github.com/Yusuftunch/PLC-EDITOR-ARDUINO-CLI).
    
