@@ -9,6 +9,8 @@ Make your own PLC by using arduino code and Kicad.
 ## 2. C# Cutoms IDE / Based on Arduino-CLI
    You can find the codes of the PLC editor I developed for my company at this link. The PLC editor program, which I developed with C# visual studio 2022 IDE, supports C++ code. It performs its operations by calling the arduino-cli program in the background.
 [PLC Editor page](https://github.com/Yusuftunch/PLC-EDITOR-ARDUINO-CLI).
+
+More detail please visit [Arduino-cli](https://arduino.github.io/arduino-cli/0.35/)
    
 ## 3. Library
   I prepared the C++ version of the commonly used PLC software elements for the PLC software of the C++ / Arduino-based microcontroller.
